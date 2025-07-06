@@ -1,5 +1,6 @@
 # Sentimental-Analysis-Hotel-Review
 
+
 ## Overview
 This project involves analyzing a dataset of hotel reviews to gain insights and understand patterns in customer feedback. The dataset contains reviews from various hotels and includes information such as review scores, hotel location, and reviewer demographics.
 
